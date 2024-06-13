@@ -1,1 +1,1 @@
-# workshops
+# The repository with workshops and tutorials
