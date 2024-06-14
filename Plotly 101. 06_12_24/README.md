@@ -7,7 +7,7 @@ Materials for GIS Working Group
 ### Plotly 101: Building Interactive plots in Python
 Polina Tikhonova, Graduate Research Assistant, The Pennsylvania State University
 
-- [Link to the .ipynb with a rendered plotly graphs.](https://nbviewer.org/github/PollyTikhonova/workshops/blob/1135d115814b7931f595faa71fc6379473dcc974/Plotly%20101.%2006_12_24/Plotly%20101%20Building%20Interactive%20plots%20in%20Python.ipynb)
+- [Link to the .ipynb with a rendered plotly graphs.](https://nbviewer.org/github/PollyTikhonova/workshops/blob/386b8216ccfd1f72d248a3b389c63b6c0db0ec95/Plotly%20101.%2006_12_24/Plotly%20101%20Building%20Interactive%20plots%20in%20Python.ipynb)
 - [Link to Slides](https://pollytikhonova.github.io/workshops/Plotly%20101.%2006_12_24/Plotly%20101%20Building%20Interactive%20plots%20in%20Python.slides.html#/)
 
 ### Agenda
